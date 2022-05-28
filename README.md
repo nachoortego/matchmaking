@@ -1,6 +1,6 @@
 # matchmaking 
 
-Programa escrito en C, implementanto punteros y utilizando Árboles Binarios como estructura de datos.
+Programa escrito en C, implementanto punteros y utilizando Árboles Binarios de Búsqueda *(BST)* como estructura de datos.
 
 El mismo recibe un archivo TXT de dos equipos de Judo y sus integrantes; con nombre, apellido y edad (incluye ejemplo).
 Luego, arma parejas para enfrentarse entre sí, teniendo en cuenta la edad.
@@ -16,7 +16,7 @@ Luego, arma parejas para enfrentarse entre sí, teniendo en cuenta la edad.
   gcc -Wall -o main main.c tp2.o 
 ```
 
-## Árboles binarios creados por el programa usando la entrada de ejemplo:
+## Árboles binarios de búsqueda creados por el programa usando la entrada de ejemplo:
 ```
                         Robert Mshvidobadze 30
                         /                   \
