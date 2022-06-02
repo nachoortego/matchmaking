@@ -1,0 +1,11 @@
+Robert Mshvidobadze 30, Clarisse Agbegnenou 26. Pareja no valida. Compuesta por mayores con una diferencia de edad mayor a 2
+Robert Mshvidobadze 30, Sharafuddin Lutfillaev 28. Pareja valida.
+Amiran Papinashvili 31, Clarisse Agbegnenou 26. Pareja no valida. Compuesta por mayores con una diferencia de edad mayor a 2
+No hubo coincidencias con Amiran
+Idalys Ortiz 29, Clarisse Agbegnenou 26. Pareja no valida. Compuesta por mayores con una diferencia de edad mayor a 2
+No hubo coincidencias con Idalys
+Daria Bilodid 18, Clarisse Agbegnenou 26. Pareja no valida. Compuesta por mayores con una diferencia de edad mayor a 2
+Daria Bilodid 18, Ryuju Nagayama 23. Pareja no valida. Compuesta por mayores con una diferencia de edad mayor a 2
+Daria Bilodid 18, Uta Abe 19. Pareja valida.
+Lukhumi Chkhvimiani 26, Clarisse Agbegnenou 26. Pareja valida.
+Madeleine Malonga 25, Ryuju Nagayama 23. Pareja valida.
